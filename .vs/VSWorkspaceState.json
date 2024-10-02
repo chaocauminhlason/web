@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\client",
+    "\\client\\src",
+    "\\client\\src\\componets",
+    "\\client\\src\\componets\\Admin",
+    "\\client\\src\\componets\\Admin\\AdminBlog",
+    "\\client\\src\\componets\\blog",
+    "\\client\\src\\componets\\blog\\blogInfor",
+    "\\client\\src\\styles",
+    "\\client\\src\\styles\\videos"
+  ],
+  "PreviewInSolutionExplorer": false
+}
